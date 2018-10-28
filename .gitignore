@@ -1,0 +1,7 @@
+.idea/
+env/
+dumps/
+__pycache__/
+data/
+
+*.pyc
